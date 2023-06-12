@@ -1,5 +1,5 @@
 {
-  "homepage":"https://COdingBuck.github.io/React-admin2",
+  "homepage": "https://COdingBuck.github.io/React-admin2",
   "name": "react-admin2",
   "version": "0.1.0",
   "private": true,
@@ -57,5 +57,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
